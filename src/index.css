@@ -125,6 +125,8 @@ a {
   color: gray;
   margin-left: 50px;
   margin: 15px auto;
+  text-decoration: none;
+  text-align: center;
 }
 
 p.sig {
@@ -143,4 +145,9 @@ p.sig {
 
 .brand {
   text-align: center;
+}
+
+.linkgo {
+  display: inline-block;
+  margin: 0 auto;
 }
